@@ -1,18 +1,18 @@
-<a href="https://www.linkedin.com/in/prakash-meena-706469156/">
-   <img src="/cover.png" alt="Prakash Meena Cover" height="250px"/>
+<a href="www.linkedin.com/in/praakashhh">
+   <img src="/cover.png" alt="Prakash Meena Cover" height="400px"/>
 </a>
 
 ## Hey, I'm Prakash Meena 
 
 ## 🚀 About Me
 
-  I am a frontend developer with 1.5 yrs of engineering. I like doing cool things like exploring recent tools in the software industry. I have hands-on experience in developing large scale production level apps and my managers have always appreciated me for things like writing “efficient code”, taking ownership of other team's tasks and introducing new processes that helped achieve quality results faster.
+  I am a front-end developer with 1.5 years of engineering. I like doing cool things like exploring recent tools in the software industry. I have hands-on experience in developing large-scale production-level apps. My managers have always appreciated me for writing “efficient code, " taking ownership of other teams' tasks, and introducing new processes that helped achieve faster quality results.
 
 <ul>
 <li/>I like to use my skills to support my team by automating existing manual processes or introducing new ones.</li>
-<li/>I enjoy constantly improving my knowledge base by exploring new tools or collaborating with other developers. This often facilitates ideas and discussions that have a significant impact on my team’s objectives.</li>
-<li/>I am a curiosity driven individual and a fast learner.</li>
-<li/>Applying my engineering skills to solve real life problems excites me.</li>
+<li/>I enjoy constantly improving my knowledge base by exploring new tools or collaborating with other developers. This often facilitates ideas and discussions that significantly impact my team’s objectives.</li>
+<li/>I am a curiosity-driven individual and a fast learner.</li>
+<li/>Applying my engineering skills to solve real-life problems excites me.</li>
 </ul>
 
 ## 🛠️ Skills
