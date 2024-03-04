@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/praakashhh/">
-   <img src="/cover.png" alt="Prakash Meena Cover" height="450px"/>
+   <img src="/cover.png" alt="Prakash Meena Cover" height="max"/>
 </a>
 
 ## Hey, I'm Prakash Meena 
