@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/praakashhh/">
-   <img src="/cover.png" alt="Prakash Meena Cover" height="400px"/>
+   <img src="/cover.png" alt="Prakash Meena Cover" height="450px"/>
 </a>
 
 ## Hey, I'm Prakash Meena 
@@ -74,8 +74,6 @@
         <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
       <br>Node.JS
     </td>
-    <tr>
-    </tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" height="65" />
       <br>Express.JS
