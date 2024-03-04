@@ -1,4 +1,4 @@
-<a href="www.linkedin.com/in/praakashhh">
+<a href="https://www.linkedin.com/in/praakashhh/">
    <img src="/cover.png" alt="Prakash Meena Cover" height="400px"/>
 </a>
 
