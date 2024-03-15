@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-  I am a front-end developer with 6 years of experience. I like doing cool things like exploring recent tools in the software industry. I have hands-on experience in developing large-scale production-level apps. My managers have always appreciated me for writing “efficient code, " taking ownership of other teams' tasks, and introducing new processes that helped achieve faster quality results.
+   I like doing cool things like exploring recent tools in the software industry. I have hands-on experience in developing large-scale production-level apps. My managers have always appreciated me for writing “efficient code, " taking ownership of other teams' tasks, and introducing new processes that helped achieve faster quality results.
 
 <ul>
 <li/>I like to use my skills to support my team by automating existing manual processes or introducing new ones.</li>
